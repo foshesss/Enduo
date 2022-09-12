@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node main.js"
+  },
+
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "fs": "^0.0.1-security"
+  }
+}
+
